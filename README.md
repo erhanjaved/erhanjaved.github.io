@@ -1,4 +1,4 @@
-# Personal Website
+# Personal Website (in construction!)
 
 This repository hosts my personal website built using GitHub Pages.
 
@@ -7,4 +7,4 @@ The site showcases:
 - Research and data science projects
 - Personal interests in music and live concerts
 
-Live at: https://erhanjaved.github.io
+Will be live at: https://erhanjaved.github.io
